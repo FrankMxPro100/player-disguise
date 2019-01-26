@@ -1,0 +1,5 @@
+mysql:
+  user: root
+  pass: ""
+  url: jdbc:mysql://127.0.0.1:3306/db?autoReconnect=true&failOverReadOnly=false&maxReconnects=2147483645
+  prefix: global
